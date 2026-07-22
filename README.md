@@ -1,5 +1,5 @@
 ## 🧠 Overview
-**CareerForge** is a **free and open‑source AI chatbot** that helps users create professional CVs through conversation.  
+**OpenHire** is a **free and open‑source AI chatbot** that helps users create professional CVs through conversation.  
 Built with **Node.js**, **Express**, **Socket.IO**, **MongoDB**, and powered by **Ollama open models**, it combines modern backend architecture with accessible AI assistance.
 
 ## 💬 Features
@@ -40,7 +40,7 @@ Whether you’re into backend architecture, UI design, or AI prompt engineering 
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/careerforge.git
+   git clone https://github.com/lumenko/OpenHire.git
    ```
 2. Install dependencies:
    ```bash
