@@ -11,13 +11,13 @@ Built with **Node.js**, **Express**, **Socket.IO**, **MongoDB**, and powered by 
 - Completely free and open source for the community  
 
 ## ⚙️ Tech Stack
-| Component | Description |
-|-----------|-------------|
-| **Node.js + Express** | Backend server and API handling |
-| **Socket.IO** | Real‑time chat communication |
-| **MongoDB** | Secure data storage for user CVs |
+| Component              | Description                                         |
+|------------------------|-----------------------------------------------------|
+| **Node.js + Express**  | Backend server and API handling                     |
+| **Socket.IO**          | Real‑time chat communication                        |
+| **MongoDB**            | Secure data storage for user CVs                    |
 | **Ollama open models** | AI engine for conversational and content generation |
-| **PDF/HTML Export** | Output options for job applications |
+| **PDF/HTML Export**    | Output options for job applications                 |
 
 ## 📛 Badges
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
