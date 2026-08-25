@@ -1,4 +1,4 @@
-// services/resumeService.js
+/** @type {import('mongoose').Model<any>} */
 const Resume = require('../models/Resume');
 
 class ResumeService {
