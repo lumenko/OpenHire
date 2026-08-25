@@ -70,7 +70,7 @@ const ResumeSchema = new mongoose.Schema({
     },
     basics: {
         name: { type: String, trim: true, default: '' },
-        label: { type: String, trim: true, default: '' }, // e.g. Senior Backend Engineer
+        label: { type: String, trim: true, default: '' }, // e.g., Senior Backend Engineer
         email: { type: String, trim: true, lowercase: true },
         phone: { type: String, trim: true },
         url: { type: String, trim: true },

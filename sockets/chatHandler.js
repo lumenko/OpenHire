@@ -51,7 +51,7 @@ module.exports = function registerChatHandlers(io, socket) {
 };
 
 /**
- * Parses markdown JSON block from streaming buffer and syncs MongoDB + Live Preview
+ * Parses Markdown JSON block from a streaming buffer and syncs MongoDB and Live Preview
  */
 async function processAndApplyUpdates(buffer, resumeId, userId, io) {
     const jsonMatch = buffer.match(/```json\s*([\s\S]*?)\s*```/);
