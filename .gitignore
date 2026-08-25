@@ -35,3 +35,4 @@ dist
 cache/
 # Miscellaneous
 DS_Store
+/.env
